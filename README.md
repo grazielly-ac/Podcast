@@ -51,3 +51,9 @@ Feito o uso dessas ferramentas para o prompt, identificando o padrão de cada um
 [Prompt Enginnering Guide][def]
 
 [def]: https://www.promptingguide.ai/pt/introduction/examples#extração-de-informações
+
+## Fornecedores
+
+O conteúdo de aprendizado foi fornecido por:
+[Santander Academy](https://www.santanderopenacademy.com/pt_br/index.html)
+[DIO](https://web.dio.me/home)
